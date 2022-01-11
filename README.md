@@ -12,20 +12,24 @@ Note: In the first half of the course (sessions 1 to 5) we worked with the _Spyd
 
 Throughout the course the following data sets were used:
 
-##### Session 1:
+*Session 1 - Introduction:*
 
-##### Session 2:
+*Session 2 - Pandas:*
 
-##### Session 3:
+*Session 3 - Linear regression:*
 
-##### Session 4:
+*Session 4 - Logistic regression:*
 
-##### Session 5:
+*Session 5 - Advanced regression methods: _no practical part_
 
-##### Session 6:
+*Session 6 - Data visualization with matplotlib:
 
-##### Session 7:
+*Session 7 - Cluster analysis:
 
+*Session 8 - Principal component analysis:* US crime statistics of the year 1980 for the 50 US states
 
-##### Session 8 - Principal component analysis: US crime statistics of the year 1980 for the 50 US states
 Source: _Jobson, J. D. Applied Multivariate Data Analysis: Volume II: Categorical and Multivariate Methods. 1st ed. New York, NY: Springer New York, 1994._
+
+*Session 9 - Data visualization with seaborn:*
+
+*Session 10 - Introduction to machine learning:*
