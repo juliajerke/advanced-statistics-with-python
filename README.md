@@ -27,8 +27,5 @@ Throughout the course the following data sets were used:
 ##### Session 7:
 
 
-##### Session 8 - Principal component analysis:
-
-US crime statistics of the year 1980 for the 50 US states
-
+##### Session 8 - Principal component analysis: US crime statistics of the year 1980 for the 50 US states
 Source: _Jobson, J. D. Applied Multivariate Data Analysis: Volume II: Categorical and Multivariate Methods. 1st ed. New York, NY: Springer New York, 1994._
