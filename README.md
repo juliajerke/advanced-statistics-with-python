@@ -12,9 +12,11 @@ Note: In the first half of the course (sessions 1 to 5) we worked with the _Spyd
 
 Throughout the course the following data sets were used:
 
-**Session 1 - Introduction:**
+| Module | Data set | Source|
+| ------- | -------------- | ------------- | 
+|**Session 1 - Introduction**| | |
 
-**Session 2 - Pandas:**
+|**Session 2 - Pandas:**|
 
 **Session 3 - Linear regression:** 
 
