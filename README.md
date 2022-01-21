@@ -12,7 +12,7 @@ Note: In the first half of the course (sessions 1 to 5) we worked with the _Spyd
 
 Throughout the course the following data sets are used:
 
-| Data set | Source| Description | Used in &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
+| Data set | Source| Description | Used in &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
 | ------- | -------------- | ------------- | ------------- |
 |_dogs_of_zurich_ | [Open Data Zurich](https://www.stadt-zuerich.ch/opendata) | The data set contains information about dogs and their owners from the current inventory of the municipal dog registry of Zurich. | Exercise 1 |
 |_COVID-19-Survey-Student-Responses_| [kaggle.com](https://www.kaggle.com/kunal28chaturvedi/covid19-and-its-impact-on-students) | The data set contains the results from a cross-sectional survey conducted with 1182 students of different age groups from different educational institutions in Delhi National Capital Region. | Seesion 1 <br> Session 2 |
