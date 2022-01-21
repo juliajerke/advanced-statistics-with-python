@@ -12,7 +12,7 @@ Note: In the first half of the course (sessions 1 to 5) we worked with the _Spyd
 
 Throughout the course the following data sets are used:
 
-| Data set | Source| Description | Used in &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
+| Data set | Source| Description | Used in &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
 | ------- | -------------- | ------------- | ------------- |
 |_dogs_of_zurich_ | [Open Data Zurich](https://www.stadt-zuerich.ch/opendata) | The data set contains information about dogs and their owners from the current inventory of the municipal dog registry of Zurich| Exercise 1 |
 |_COVID-19-Survey-Student-Responses_| [kaggle.com](https://www.kaggle.com/kunal28chaturvedi/covid19-and-its-impact-on-students) | The data set contains the results from a cross-sectional survey conducted with 1182 students of different age groups from different educational institutions in Delhi National Capital Region| Seesion 1 <br> Session 2 |
@@ -21,4 +21,4 @@ Throughout the course the following data sets are used:
 | _US_crime_1980_ | Jobson, J. D. Applied Multivariate Data Analysis: Volume II: Categorical and Multivariate Methods. 1st ed. New York, NY: Springer New York, 1994. | US crime statistics of the year 1980 for the 50 US states | Session 8 |
 |_red_wine_quality_ | [kaggle.com](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009) | This data set contains physicochemical information of 1599 red wines as well as a quality assessment | Session 10 |
 
-* The dataset is not available here in the repository because access is protected by GESIS. Downloading datasets from GESIS generally requires registration. However, registration is uncomplicated, free of charge and open to all.
+\* The dataset is not available here in the repository because access is protected by GESIS. Downloading datasets from GESIS generally requires registration. However, registration is uncomplicated, free of charge and open to all.
