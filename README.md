@@ -10,28 +10,10 @@ Note: In the first half of the course (sessions 1 to 5) we worked with the _Spyd
 
 ### Data sets and sources
 
-Throughout the course the following data sets were used:
+Throughout the course the following data sets are used:
 
-| Module | Data set | Source|
+| Data set | Source| Description | Used in |
 | ------- | -------------- | ------------- | 
-|**Session 1 - Introduction**| | |
-
-|**Session 2 - Pandas:**|
-
-**Session 3 - Linear regression:** 
-
-**Session 4 - Logistic regression:** 
-
-**Session 5 - Advanced regression methods:** _no practical part_
-
-**Session 6 - Data visualization with matplotlib:** 
-
-**Session 7 - Cluster analysis:** 
-
-**Session 8 - Principal component analysis:** US crime statistics of the year 1980 for the 50 US states
-
-Source: _Jobson, J. D. Applied Multivariate Data Analysis: Volume II: Categorical and Multivariate Methods. 1st ed. New York, NY: Springer New York, 1994._
-
-**Session 9 - Data visualization with seaborn:**
-
-**Session 10 - Introduction to machine learning:**
+|_dogs_of_zurich_ | [Open Data Zurich](https://www.stadt-zuerich.ch/opendata) | The data set contains information about dogs and their owners <br> from the current inventory of the municipal dog registry| Exercise 1 |
+|_COVID-19-Survey-Student-Responses_| [kaggle.com](https://www.kaggle.com/kunal28chaturvedi/covid19-and-its-impact-on-students) | The data set contains the results from a cross-sectional survey <br> conducted with 1182 students of different age groups from different educational institutions in Delhi National Capital Region| Seesion 1 <br> Session 2 |
+| _US_crime_1980_ | Jobson, J. D. Applied Multivariate Data Analysis: Volume II: Categorical and Multivariate Methods. 1st ed. New York, NY: Springer New York, 1994. | US crime statistics of the year 1980 for the 50 US states | Session 8 |
