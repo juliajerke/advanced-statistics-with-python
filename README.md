@@ -1,9 +1,9 @@
 # Advanced Statistics with Python
 
-Course material for the course 'Data analysis - Advanced Statistics with Python' that I taught in Fall 2021 at the University of Zurich.
+Course material for the course 'Data Analysis - Advanced Statistics with Python' that I taught in Fall 2021 at the University of Zurich.
 Contact me for questions or feedback: jerke@soziologie.uzh.ch
 
-The course overview can be found in the file *course_summary*.
+The course overview can be found in the file *course_summary.pdf*.
 
 Note: In the first half of the course (sessions 1 to 5) we worked with the _Spyder_ IDE. In the second half of the course (sessions 6 to 10) we worked with _Jupyter Notebook_.
 
@@ -22,4 +22,4 @@ Throughout the course the following data sets are used:
 |_red_wine_quality_ | [kaggle.com](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009) | This data set contains physicochemical information of 1599 red wines as well as a quality assessment. | Session 10 |
 | _breast_cancer_wisconsin_ <br> <br>  _breast_cancer_wisconsin_experts_ <br> <br> _breast_cancer_wisconsin_newdata_| [kaggle.com](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data) | The data set contains clinical measurements from breast cancer patients. The three data sets used in the exercise are slices from the original data set that I created for this exercise. | Exercise 7a | 
 
-\* The dataset is not available here in the repository because access is protected by GESIS. Downloading datasets from GESIS generally requires registration. However, registration is uncomplicated, free of charge and open to all. To run run the respective scripts, you have to download the data set from GESIS and store itas _voting.csv_.
+\* The dataset is not available here in the repository because access is protected by GESIS. Downloading datasets from GESIS generally requires registration. However, registration is uncomplicated, free of charge and open to all. To run run the respective scripts, you have to download the data set from GESIS and store it as _voting.csv_.
